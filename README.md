@@ -1,5 +1,7 @@
 # CyKICK-forum
 
+https://cykick.herokuapp.com
+
 1. Please submit your issues at Issues Tab. 
 
 2. Wanna submit suggestion?
